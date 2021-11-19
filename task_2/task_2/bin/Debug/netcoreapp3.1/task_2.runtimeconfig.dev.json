@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oxlop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oxlop\\.nuget\\packages"
+    ]
+  }
+}
